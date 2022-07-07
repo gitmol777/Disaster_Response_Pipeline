@@ -2,7 +2,9 @@
 
 #### Project Description
 
-In a disaster management system tracking messages and delivering it to relevant agencies promptly is crucial. Sometimes these messages need to be alerted to multiple authorities. This project attempts to do this and the real dataset which is provided by 'FigureEight' is used to perform ETL and train a ML pipeline.
+In a disaster management system tracking messages and delivering it to relevant agencies promptly is crucial. Sometimes these messages need to be alerted to multiple authorities. This project attempts to do this and the real dataset which is provided by 'FigureEight' is used to perform ETL and train a ML pipeline.  
+
+However, out of the 3 genre types of messages (direct, social, and news), looks like it includes fewer messages from social media compared to the others. It would be great in the next release if they can include similar numbers for all 3 classes.  
 
 ## Libraries Used
 
