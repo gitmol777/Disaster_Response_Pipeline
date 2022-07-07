@@ -13,6 +13,7 @@ python=3.6.15
 scikit-learn=0.23.2
 matplotlib=3.3.4
 seaborn=0.11.2
+plotly=5.5.0  
 pandas=1.1.5
 numpy=1.19.5
 flask=2.0.2
